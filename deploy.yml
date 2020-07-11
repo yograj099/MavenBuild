@@ -1,5 +1,5 @@
 ---
-- hosts: webservers
+- hosts: webservers 
   vars:
   - warName: java-example.war
   - tomcat_version: 8.5.56
